@@ -30,3 +30,6 @@ src
 cd src/main/java/org/kaankarakas/main
 Run Main.java
 ```
+## 📌 Example Output
+
+![House Service Output](HouseService.png)
